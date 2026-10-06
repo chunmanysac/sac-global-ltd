@@ -1,4 +1,4 @@
-/* SAC Global Ltd — simple, accessible, mobile-first */
+/* 字棧 ZiZaan — simple, accessible, mobile-first */
 :root {
   --bg: #f7f5f1;
   --bg-alt: #eef2f6;
@@ -102,18 +102,12 @@ button:focus-visible {
   text-decoration: none;
 }
 
-.logo-mark {
-  display: grid;
-  place-items: center;
+.logo-img {
+  display: block;
   width: 2.5rem;
   height: 2.5rem;
   border-radius: 10px;
-  background: var(--brand);
-  color: #fff;
-  font-family: var(--font-en);
-  font-weight: 700;
-  font-size: 0.85rem;
-  letter-spacing: 0.04em;
+  flex-shrink: 0;
 }
 
 .logo-text {

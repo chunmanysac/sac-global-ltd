@@ -42,6 +42,13 @@ Do **not** invent PayPal or FPS numbers.
 
 Explicit exclusions: 唔包影相／拍片／設計.
 
+## Public URL
+
+- https://chunmanysac.github.io/sac-global-ltd/
+- Source repo: https://github.com/chunmanysac/sac-global-ltd
+
+After editing files, commit and `git push origin main` — GitHub Pages rebuilds from `main` (root).
+
 ## Contact
 
 - Email: marketing@sacgloballtd.com

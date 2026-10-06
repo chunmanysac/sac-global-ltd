@@ -2,6 +2,8 @@
 
 Simple bilingual (繁體中文／English) one-pager for **SAC Global Ltd** (Simon Yeung, Hong Kong).
 
+Hero offer: **雙語文字工作室 / Bilingual Text Desk** — **內容外包（content & copy outsourcing）**, Docs/PDF only. Not an SEO agency.
+
 ## Local files
 
 - `index.html` — main page
